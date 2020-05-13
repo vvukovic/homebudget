@@ -37,7 +37,7 @@ Git:
 
 # Pokretanje projekta #
 Da ne opisujem cijeli proces pokretanja, unutar strukture projekta se nalazi README-NPM.md te bacite oko na opcije koje su Vam dostupne.
-Za pocetak mozete samo napisati `npm start` i trebala bi Vas docekati Hello World stranice na localhost:3000.
+Za pocetak mozete samo napisati `npm start` i trebala bi Vas docekati Hello World stranica na localhost:3000.
 Ako negdje zapnete, vicite!
 
 ## Happy coding ##

@@ -14,7 +14,7 @@ https://trello.com/b/DDUl6Ser/algebra-house-budget
 *Zakljucak: master je glavni branch, develop je radni branch.*
 
 2. Kada lokalno radite promjene ili neki novi feature, koristite brancheve i onda kada ste gotovi s kodom, mozete napraviti PR (pull request) koji cemo moci svi pregledati i sudjelovati sa komentarima i sugestijama. Ovo nije da se osjecate pracenim ili da se ne vjeruje, to je nacin koji se koristi u industriji, jako je jednostavan i efektivan te dodatno vas educira u koristenju Git-a te standardnih normi prilikom testiranja/verifikacije koda. Prilikom PR-a moci cete davati komentare, sugestije a cak i ne sloziti se s kodom i predloziti promjene, prije nego se spoji u develop. 
-**Paznja: pazite da ne odaberete opciju "Delete source branch" jer onda cete obrisati cijeli develop branch i sve stvari koje su ikada napravljene. Odaberite "Delete source branch" samo ako ste napravili svoj posebni feature branch koji ste nazvali svojim imenom te onda zelite ozeniti (merge) svoj branch s develop-om.**
+**Paznja: pazite da ne odaberete opciju "Delete source branch / Delete source branch when merge request is accepted." jer onda cete obrisati cijeli develop branch i sve stvari koje su ikada napravljene. Odaberite "Delete source branch / Delete source branch when merge request is accepted." samo ako ste napravili svoj posebni feature branch koji ste nazvali svojim imenom te onda zelite ozeniti (merge) svoj branch s develop-om.**
 
 3. Repozitorij ce imati pocetni boilerplate projekt koji ce biti postavljen da prikaze Hello World stranicu i sav ostali kod podesen. Naravno, puno toga jos nismo prosli pa ce dosta koda vecini biti nepoznanica, tako da se ne morate brinuti da sve morate znati isprva. Sve ce sjesti kroz vrijeme.
 

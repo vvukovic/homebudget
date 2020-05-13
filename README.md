@@ -35,4 +35,9 @@ Git:
 
 **Ovo gore su smjernice koje se predlazu da pratite tako da kod bude sto cisci te bolji a ujedno da obnovite znanje oko osnovnih radnji koje ce vas cekati na buducim projektima**
 
+# Pokretanje projekta #
+Da ne opisujem cijeli proces pokretanja, unutar strukture projekta se nalazi README-NPM.md te bacite oko na opcije koje su Vam dostupne.
+Za pocetak mozete samo napisati `npm start` i trebala bi Vas docekati Hello World stranice na localhost:3000.
+Ako negdje zapnete, vicite!
+
 ## Happy coding ##

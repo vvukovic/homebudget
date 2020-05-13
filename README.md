@@ -11,7 +11,7 @@ https://trello.com/b/DDUl6Ser/algebra-house-budget
 
 # Guidelines #
 1. Nakon prvog povlacenja repozitorija, obratite pozornost na 2 branch-a, master i develop. Kao sto smo ucili, koristite develop za push svega sto trenutno radimo a onda cemo naknadno povlaciti u master kad se osiguramo da je testirano i da radi kako treba. Razlog tome je da se upoznate s radom na Git-u te da osvjezite znanje komandi. Ne morate nuzno koristiti komande, ja osobno inace koristim alate poput SourceTree ili Fork, sto god Vam je lakse.
-Zakljucak: master je glavni branch, develop je radni branch.
+*Zakljucak: master je glavni branch, develop je radni branch.*
 
 2. Kada lokalno radite promjene ili neki novi feature, koristite brancheve i onda kada ste gotovi s kodom, mozete napraviti PR (pull request) koji cemo moci svi pregledati i sudjelovati sa komentarima i sugestijama. Ovo nije da se osjecate pracenim ili da se ne vjeruje, to je nacin koji se koristi u industriji, jako je jednostavan i efektivan te dodatno vas educira u koristenju Git-a te standardnih normi prilikom testiranja/verifikacije koda. Prilikom PR-a moci cete davati komentare, sugestije a cak i ne sloziti se s kodom i predloziti promjene, prije nego se spoji u develop.
 

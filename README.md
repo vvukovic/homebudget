@@ -36,8 +36,11 @@ Git:
 **Ovo gore su smjernice koje se predlazu da pratite tako da kod bude sto cisci te bolji a ujedno da obnovite znanje oko osnovnih radnji koje ce vas cekati na buducim projektima**
 
 # Pokretanje projekta #
-Da ne opisujem cijeli proces pokretanja, unutar strukture projekta se nalazi README-NPM.md te bacite oko na opcije koje su Vam dostupne.
-Za pocetak mozete samo napisati `npm start` i trebala bi Vas docekati Hello World stranica na localhost:3000.
+1. Klonirati ovaj projekt putem SSH-a
+2. U terminal-u napisati `npm install` da bi se povukle sve potrebne skripte
+3. Pokrenuti projekt s `npm start` te utvrditi da se projekt pokrece. Trebala bi se otvoriti stranica na localhost:3000 i docekati Vas poruka "Hello World"
+
+Da ne opisujem dodatne opcije, unutar strukture projekta se nalazi README-NPM.md te bacite oko na opcije koje su Vam dostupne.
 Ako negdje zapnete, vicite!
 
 ## Happy coding ##

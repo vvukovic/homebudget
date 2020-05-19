@@ -1,0 +1,16 @@
+/* Normalize in index.html prior to applying these styles */
+/* https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css */
+/* Typography */
+h1,
+h2,
+h3,
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* Color scheme */
+/* Pale grey 
+#f9fafc */
+/* Greenish
+#3d954d */
+/* Pine
+#3c6c45 */

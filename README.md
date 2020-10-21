@@ -13,7 +13,7 @@ Git:
 - Branching: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 - Pull request: https://www.atlassian.com/git/tutorials/making-a-pull-request
 
-# Guidelines #
+# Upute za koristenje #
 1. Nakon prvog povlacenja repozitorija, obratite pozornost na 2 branch-a, master i develop. Kao sto smo ucili, koristite develop za push svega sto trenutno radimo a onda cemo naknadno povlaciti u master kad se osiguramo da je testirano i da radi kako treba. Razlog tome je da se upoznate s radom na Git-u te da osvjezite znanje komandi. Ne morate nuzno koristiti komande, ja osobno inace koristim alate poput SourceTree ili Fork, sto god Vam je lakse.
 *Zakljucak: master je glavni branch, develop je radni branch.*
 
